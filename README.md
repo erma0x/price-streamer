@@ -1,5 +1,7 @@
 # Price Streamer with truefx.com
 
+![](app.gif)
+
 ## Description
 1. Get data from truefx.com and save it into .csv file with `get_datastream_truefx.py`
 2. Read cvs file and update results for price live streaming  with `price_streamer.py`
